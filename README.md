@@ -6,7 +6,7 @@ Esta aplicación está enfocada en el registro de vehículos con sus caracterís
 ### **Instrucciones de uso:**
 Al iniciar la aplicación se debe poner en la URL la ruta "/A765" como código de verificación para el login y poder así, acceder a las funcionalidades que ésta trae. De otro modo, cualquier otra ruta que se coloque para la aplicación tendrá como resultado una página que dice "Zona prohibida".
 
-<img src="/zona.PNG" alt="zona"
+<img src="/public/img/zona.PNG" alt="zona"
 	title="Zona Prohibida"/>
   
   Después de haber iniciado sesión, se 
