@@ -44,5 +44,5 @@ En el segundo botón encontramos la funcionalidad de Listar Vehículos. Este nos
 
 En el tercer botón encontramos la funcionalidad de Estadísticas de Vehículos. Este nos llevará a una página donde encontraremos el conteo estadístico de cuántos vehículos hay de cada marca en específico.
 
-<img src="/public/img/estadistica.PNG" alt="estadistica"
+<img src="/public/img/statistics.PNG" alt="estadistica"
 	title="Estadistica"/>
