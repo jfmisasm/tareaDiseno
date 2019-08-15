@@ -7,7 +7,7 @@ Esta aplicación está enfocada en el registro de vehículos con sus caracterís
 - La aplicación debe ser montada en un servicio Apache con MYSQL o similar. 
 - Luego de clonar el repositorio, modificar el archivo .env con el nombre de la base de datos, usuario de la base de datos y contraseña correspondientes.
 - Después, es necesario abrir el CMD, ubicarse en la ruta del proyecto y escribir los siguientes comandos:
-	'composer install'
+	´composer install´
 
 
 ### **Instrucciones de uso:**
